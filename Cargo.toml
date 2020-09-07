@@ -13,3 +13,4 @@ wasm-bindgen-futures = "0.4"
 
 [dev-dependencies]
 futures-executor = "0.3"
+wasm-bindgen-test = "0.3"
